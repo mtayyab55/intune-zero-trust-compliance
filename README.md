@@ -9,6 +9,17 @@ The walkthrough shows the full lifecycle:
 **Healthy device → Policy applied → Violation → Non-compliant → Access blocked → Remediation → Access restored**
 
 ---
+## Skills Demonstrated
+
+- Microsoft Entra ID user and role management
+- Conditional Access policy design and enforcement
+- Group-based MFA targeting using security groups
+- Break-glass (emergency access) account configuration
+- Privileged Identity Management (PIM) role assignments
+- MFA validation using Microsoft Entra sign-in logs
+- Identity security posture review and lockout prevention
+
+---
 
 ## 🛠 Tools & Environment
 
